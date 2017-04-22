@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "my first post!",
+      "content": "json test server is pretty cool. check out localhost 3000 man!",
+      "id": 2
+    },
+    {
+      "title": "Let's do this again!",
+      "content": "wooohooooo!",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "title": "fdfgkjgjhkl",
+      "content": "sfgfhdjkfh",
+      "id": 6
+    },
+    {
+      "title": "let's navigate",
+      "id": 7
+    },
+    {
+      "title": "let's navigate!",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
